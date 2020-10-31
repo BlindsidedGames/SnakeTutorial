@@ -10,3 +10,5 @@ Create a new project in Unity
 Next close down the project and drag these files from the zip to the project folder
 
 <img src="https://i.imgur.com/e3bSv7K.png" width="700">
+
+<img src="https://i.imgur.com/ZgK2Woe.png" width="300">
